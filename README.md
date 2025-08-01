@@ -1,2 +1,1 @@
-# Customer Segmentation using KMeans
-# customer-segmentation-KMeans
+# customer-segmentation-kmeans
